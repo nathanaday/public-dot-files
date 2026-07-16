@@ -1,9 +1,7 @@
 # public-dot-files
 
-Configuration I use with my day-to-day tools, published in case any of it is useful to someone else.
-Right now that means a couple of Claude Code skills for writing documentation.
 
-## Skills
+## Claude Skills
 
 - `writing-documentation-prose` — for docs pages, design notes, module overviews, and PR
   descriptions. Pushes prose toward being clear instead of impressive-sounding.
